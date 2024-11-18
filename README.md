@@ -1,20 +1,23 @@
-# 🏝🐻 Welcome to my Profile 🐻🏝
+# 🏝🐻 Welcome to My Profile! 🐻🏝
 
-I love making games and creating useless python apps 🙃
+Hi there! 👋 I’m passionate about **game development** and love tinkering with **Python** to create quirky, "useless" apps 🙃 (though they're probably cooler than useless!).
 
-I'll try to upload more of my Python Apps on here!
+As of **November 2024**, I’m trying out more programming languages to improve my skills and get familiar with new tools and technologies. 🚀
 
-I do a lot of projects with [Evie](https://github.com/EvieDoesStuff), I've known her for quite a while now 😄!
+I’m working on adding more of my projects here, so stay tuned!
 
-<hr>
-
-## Languages that I know
-[![Languages](https://skillicons.dev/icons?i=js,html,css,py,cs,java,raspberrypi,mysql,sqlite)](https://skillicons.dev)
+I have worked with [Evie](https://github.com/EvieDoesStuff) on various private *(so far)* projects—she’s been an amazing developer and friend for a while now 😄.
 
 <hr>
 
-## Contacts
-Discord: @bae.r
+## 🛠 Languages and Tools
+[![Languages and Tools](https://skillicons.dev/icons?i=js,html,css,py,cs,java,raspberrypi,mysql,sqlite)](https://skillicons.dev)
+
+<hr>
+
+## 📬 How to Reach Me
+- **Discord:** @bae.r  
+*(Feel free to reach out!)*
 
 
 <!--
