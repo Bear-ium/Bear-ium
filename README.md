@@ -12,7 +12,7 @@ I have worked with [Evie](https://github.com/EvieDoesStuff) on various private *
 
 ## 🛠 Languages and Tools
 ### 🛠 Languages
-[![Languages](https://skillicons.dev/icons?i=js,html,css,py,cs,java)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,html,css,py,cs,java,lua)](https://skillicons.dev)
 
 ### 🔧 Tools
 [![Tools](https://skillicons.dev/icons?i=raspberrypi,mysql,sqlite)](https://skillicons.dev)
