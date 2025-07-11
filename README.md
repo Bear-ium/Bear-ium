@@ -29,8 +29,8 @@ I have worked with [Evie](https://github.com/EvieDoesStuff) on various private *
 
 <hr>
 
-## 🐉 If you wish to Support me, here's how!
-<!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y0V63PM)-->
+<!--## 🐉 If you wish to Support me, here's how!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y0V63PM)-->
 
 <!--
 **Bear-ium/Bear-ium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
