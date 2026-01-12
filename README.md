@@ -2,7 +2,7 @@
 
 Hi there! 👋 I’m passionate about **game development** and love tinkering with **Python** to create quirky, "useless" apps 🙃 (though they're probably cooler than useless!).
 
-As of **November 2024**, I’m trying out more programming languages to improve my skills and get familiar with new tools and technologies. 🚀
+As of **November 2024**, I’m trying out more programming languages to improve my skills and get familiar with new tools and technologies.
 
 I’m working on adding more of my projects here, so stay tuned!
 <!--
